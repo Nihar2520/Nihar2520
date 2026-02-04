@@ -1,8 +1,8 @@
 <div align="center">
-  
-# 👋 Hi, I'm Nihar Mehta
 
-### 🛡️ SOC Analyst | Security Researcher | Threat Hunter
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nihar+Mehta;SOC+Analyst+%7C+Security+Researcher;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
+
+### SOC Analyst | Security Researcher | Threat Hunter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-mehta-247339227/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nihar2520.github.io/Portfolio/)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class SOCAnalyst:
@@ -40,24 +40,24 @@ class SOCAnalyst:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-🔹 **SOC Analyst Trainee** @ ZeroNSec (Jan 2025 - Present)
+**SOC Analyst Trainee** @ ZeroNSec (Jan 2025 - Present)
 - Improved alert triage efficiency by 30% through structured prioritization
 - Developed SOAR playbooks reducing incident response time by 35%
 - Implemented automated threat intelligence correlation
 
-🔹 **Digital Forensics Intern** @ IIMT (Jun - Aug 2024)
+**Digital Forensics Intern** @ IIMT (Jun - Aug 2024)
 - Conducted forensic investigations using Autopsy & FTK Imager
 - Performed evidence collection and analysis for security incidents
 
-🔹 **Cybersecurity Analyst** @ Tata Forage (Nov 2024)
+**Cybersecurity Analyst** @ Tata Forage (Nov 2024)
 - Analyzed security incidents and performed log correlation
 - Assisted in vulnerability assessment and remediation
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### Security Operations
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
@@ -86,70 +86,56 @@ class SOCAnalyst:
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🔐 [Comprehensive Security Operations Platform](https://github.com/Nihar2520)
+### [Comprehensive Security Operations Platform](https://github.com/Nihar2520)
 Integrated security stack with Shuffle SOAR, Wazuh SIEM, TheHive, MISP, and Cortex
-- ⚡ Reduced incident response time by 35% through automation
-- 🤖 Automated threat intelligence enrichment and IOC correlation
-- 📊 Implemented custom detection rules and response playbooks
+- Reduced incident response time by 35% through automation
+- Automated threat intelligence enrichment and IOC correlation
+- Implemented custom detection rules and response playbooks
 
-### 🌐 NetSentinel - ML-Powered IDS/IPS
+### NetSentinel - ML-Powered IDS/IPS
 Lightweight network intrusion detection system with machine learning capabilities
-- 🧠 Real-time anomaly detection using ML algorithms
-- 🚨 Custom detection rules for port scans, DDoS, and exploit traffic
-- 📡 Advanced packet analysis and alerting system
+- Real-time anomaly detection using ML algorithms
+- Custom detection rules for port scans, DDoS, and exploit traffic
+- Advanced packet analysis and alerting system
 
-### 🪟 WindowsUserAudit - Security Automation Tool
+### WindowsUserAudit - Security Automation Tool
 PowerShell-based security monitoring for Windows environments
-- 👥 Tracks local user and administrator account changes
-- 🔔 Automated alerts for unauthorized modifications
-- 📋 Compliance reporting and change management
+- Tracks local user and administrator account changes
+- Automated alerts for unauthorized modifications
+- Compliance reporting and change management
 
-### 🏆 SOC Analyst Simulation Projects
+### SOC Analyst Simulation Projects
 - **TryHackMe & LetsDefend**: Investigated 20+ real-world security incidents
 - **OverTheWire Wargames**: Advanced CTF challenges in Linux, cryptography, and privilege escalation
 - **IIITA Mahakumbh Hackathon**: Participated as team member in cybersecurity competition
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nihar2520&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihar2520&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nihar2520&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
+## Education & Certifications
 
 **M.Sc. Cybersecurity & Forensics** | Parul University (2023-2025)  
 **B.Sc. Computer Science** | University of Mumbai (2020-2023)
 
-### 🏅 Professional Certifications
-- ✅ EC-Council Certified Ethical Hacker (CEH v13)
-- ✅ Google Cybersecurity Professional Certificate
-- ✅ IBM Security Operations Center (SOC) Analyst
-- ✅ IBM Cybersecurity Analyst
-- ✅ Cisco Junior Cybersecurity Analyst
-- ✅ Cisco Certified Ethical Hacker
+### Professional Certifications
+- EC-Council Certified Ethical Hacker (CEH v13)
+- Google Cybersecurity Professional Certificate
+- IBM Security Operations Center (SOC) Analyst
+- IBM Cybersecurity Analyst
+- Cisco Junior Cybersecurity Analyst
+- Cisco Certified Ethical Hacker
 
 ---
 
-## 🌐 Languages
+## Languages
 
-🗣️ **Gujarati** (Native) | **English** (Fluent) | **Hindi** (Fluent)  
-📚 **German** (B1) | **Japanese** (A1)
+**Gujarati** (Native) | **English** (Fluent) | **Hindi** (Fluent)  
+**German** (B1) | **Japanese** (A1)
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
@@ -173,22 +159,22 @@ Goals 2025:
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect
 
 I'm always interested in collaborating on security projects, discussing threat intelligence, or sharing knowledge about cybersecurity. Feel free to reach out!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nihar-mehta-247339227/)
-- 🌐 [Portfolio](https://nihar2520.github.io/Portfolio/)
-- 📧 [Email](mailto:mehtaniharhnd205@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nihar-mehta-247339227/)
+- [Portfolio](https://nihar2520.github.io/Portfolio/)
+- [Email](mailto:mehtaniharhnd205@gmail.com)
 
 ---
 
 <div align="center">
 
-### 💡 *"Security is not a product, but a process."* - Bruce Schneier
+### "Security is not a product, but a process." - Bruce Schneier
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nihar2520&color=F85D7F&style=flat-square)
 
-⭐️ From [Nihar2520](https://github.com/Nihar2520)
+From [Nihar2520](https://github.com/Nihar2520)
 
 </div>
