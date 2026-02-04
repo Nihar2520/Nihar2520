@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nihar+Mehta;SOC+Analyst+%7C+Security+Researcher;Threat+Hunter+%7C+Incident+Responder" alt="Typing SVG" />
-
-### SOC Analyst | Security Researcher | Threat Hunter
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Nihar+Mehta;SOC+Analyst+%7C+Security+Researcher;Threat+Hunter+%7C+Incident+Responder;Cybersecurity+Professional" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-mehta-247339227/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nihar2520.github.io/Portfolio/)
