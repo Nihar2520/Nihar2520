@@ -6,6 +6,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nihar2520.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtaniharhnd205@gmail.com)
 
+<br/>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/nihar2520.png" alt="TryHackMe Badge"/>
+
 </div>
 
 ---
